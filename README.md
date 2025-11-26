@@ -1,4 +1,4 @@
-# BachIAndo
+# BachApp
 
 ## Proyecto para devChallenge 2025 por DuranIA
 ---
