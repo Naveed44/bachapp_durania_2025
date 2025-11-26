@@ -1,0 +1,68 @@
+# Api1 Node environment
+api1/node_modules/
+api1/npm-debug.log*
+api1yarn-error.log
+
+# Build
+api1/dist/
+api1/build/
+api1/.vite/
+
+# Sistema
+api1/.DS_Store
+api1/Thumbs.db
+
+# Uploads locales
+api1/uploads/
+
+# Mobapp environment
+# Miscellaneous
+**/*.class
+**/*.log
+**/*.pyc
+**/*.swp
+**/.DS_Store
+**/.atom/
+**/.buildlog/
+**/.history
+**/.svn/
+**/migrate_working_dir/
+
+# IntelliJ related
+**/*.iml
+**/*.ipr
+**/*.iws
+**/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+**/.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+mobapp/.dart_tool/
+mobapp/.flutter-plugins
+mobapp/.flutter-plugins-dependencies
+mobapp/.pub-cache/
+mobapp/.pub/
+mobapp//build/
+
+# Symbolication related
+mobapp/app.*.symbols
+
+# Obfuscation related
+mobapp/app.*.map.json
+
+# Android Studio will place build artifacts here
+mobapp/android/app/debug
+mobapp/android/app/profile
+mobapp/android/app/release
+
+# Environment files from any subproject
+**/.env
+**/.env.local
+**/.env.*.local
+**/.env.development
+**/.env.production
